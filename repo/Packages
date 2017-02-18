@@ -1,0 +1,26 @@
+Package: com.github.ethanrdoesmc.gandalf
+Version: 1.1.1
+Section: Tweaks
+Maintainer: EthanRDoesMC
+Architecture: iphoneos-arm
+Filename: ./debs/com.github.ethanrdoesmc.gandalf.1.1.1.deb
+Size: 1120
+MD5sum: 455d01df4b1798c6450430db74286377
+Description: Bad tweaks shall not pass!
+Name: Gandalf
+Author: EthanRDoesMC
+Depends: firmware (>=10.2)
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 842
+MD5sum: 67a55cd169258f23f3702558ee83e971
+Description: This package should not be able to install if Gandalf is working.
+Name: Gandalf Test Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
