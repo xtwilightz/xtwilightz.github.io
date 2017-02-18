@@ -3,7 +3,7 @@ Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: EthanRDoesMC
 Depends: firmware (>=10.2)
-Filename: debs//com.github.ethanrdoesmc.gandalf.deb
+Filename: debs/com.github.ethanrdoesmc.gandalf.deb
 Size: 1120
 MD5sum: 455D01DF4B1798C6450430DB74286377
 SHA1: 3CE89237235961D0A02E21DD6057D822E114FD6C
@@ -19,7 +19,7 @@ Version: 2.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
-Filename: debs//com.supermamon.newpackage.deb
+Filename: debs/com.supermamon.newpackage.deb
 Size: 842
 MD5sum: 85A01C41AAAA72B48B08D9D0A67F3016
 SHA1: 46BBCD314F5BCB29E05E287F08FE50E6547EA401
