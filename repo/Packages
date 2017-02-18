@@ -11,7 +11,7 @@ SHA256: EC41BF54B9BB44C569C4AEFB36A68AC851864A790CCE2B5541C48080E2ACBA1C
 Section: Tweaks
 Description: Bad tweaks shall not pass!
 Author: EthanRDoesMC
-Depiction: https://xtwilightz.github.io/repo/depictions/com.github.ethanrdoesmc.gandalf/index.html
+Depiction: http://xtwilightz.github.io/repo/depictions/com.github.ethanrdoesmc.gandalf/index.html
 Name: Gandalf
 
 Package: com.supermamon.newpackage
@@ -27,5 +27,5 @@ SHA256: B01C426F4E262C901FD0A9DCE060D89327AF05BDBD203CE7527C133C1BC8CAFD
 Section: Tweaks
 Description: This package should not be able to install if Gandalf is working.
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://xtwilightz.github.io/repo/depictions/com.supermamon.newpackage/index.html
+Depiction: http://xtwilightz.github.io/repo/depictions/com.supermamon.newpackage/index.html
 Name: Gandalf Test Package
